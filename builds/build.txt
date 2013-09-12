@@ -1,0 +1,1 @@
+adt -package -target ane LoadingSpinner.ane extension.xml -swc LoadingSpinner.swc -platform iPhone-ARM -C ios . -platform default -C default . -platform iPhone-x86 -C sim .
