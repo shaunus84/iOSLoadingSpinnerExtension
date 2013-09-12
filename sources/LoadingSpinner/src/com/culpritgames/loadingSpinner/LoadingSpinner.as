@@ -1,4 +1,4 @@
-package com.tombola.loadingSpinner
+package com.culpritgames.loadingSpinner
 {
 	import flash.external.ExtensionContext;
 	import flash.events.EventDispatcher;
